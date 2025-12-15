@@ -1,0 +1,11 @@
+[01:01:30] Programm gestartet
+[01:01:33] Einfüllen (+5 Liter)
+[01:01:33] Einfüllen (+5 Liter)
+[01:01:34] Einfüllen (+5 Liter)
+[01:01:34] Einfüllen (+5 Liter)
+[01:01:34] Einfüllen (+5 Liter)
+[01:01:34] Einfüllen (+5 Liter)
+[01:01:34] Einfüllen (+5 Liter)
+[01:01:34] Einfüllen (+5 Liter)
+[01:01:35] Einfüllen (+5 Liter)
+[01:01:36] Programm beendet
