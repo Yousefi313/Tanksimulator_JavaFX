@@ -1,7 +1,6 @@
 # Tank Simulator
 
-![Tank Simulator](Screenshots/tank_simulator_screenshot.png)  
-*Replace this with an actual screenshot of your application.*
+![Tank Simulator](Screenshots/Tanksimulator_Screenshot.png)
 
 ---
 
