@@ -1,0 +1,2 @@
+In order to run the maven file from the Terminal, type mvn exec:java
+
