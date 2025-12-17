@@ -1,4 +1,6 @@
-package de.futurehome.tanksimulator;
+package de.futurehome.tanksimulator.controller;
+
+import de.futurehome.tanksimulator.view.TankSimulator;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;

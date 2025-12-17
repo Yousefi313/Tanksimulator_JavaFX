@@ -1,4 +1,4 @@
-package de.futurehome.tanksimulator;
+package de.futurehome.tanksimulator.model;
 
 public class Tank {
 
