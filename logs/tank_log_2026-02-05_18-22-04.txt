@@ -1,0 +1,3 @@
+[18:22:04] Programm gestartet
+[18:22:08] Tank zurückgesetzt
+[18:22:10] Programm beendet

@@ -1,0 +1,10 @@
+[18:21:03] Programm gestartet
+[18:21:06] Einfüllen (+5 Liter)
+[18:21:06] Einfüllen (+5 Liter)
+[18:21:06] Einfüllen (+5 Liter)
+[18:21:06] Einfüllen (+5 Liter)
+[18:21:06] Einfüllen (+5 Liter)
+[18:21:08] Verbrauch (1 Liter)
+[18:21:08] Verbrauch (1 Liter)
+[18:21:09] Tank zurückgesetzt
+[18:21:10] Programm beendet
